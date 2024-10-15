@@ -1,8 +1,8 @@
-#SORTEADOR DE NÚMEROS🍀🏆
+# SORTEADOR DE NÚMEROS🍀🏆
 
 Esse sorteador vai te ajudar de forma fácil e objetiva a sortear o que você quiser e quantos benefíciários você desejar;
 
-##Como Funciona? 🧐
+## Como Funciona? 🧐
 
 Você escolhe quantos números serão sorteados e quantas pessoas serão contempladas no sorteio .
 Também tem a possibilidade de escolher quais são os brindes para cada número sorteado.
